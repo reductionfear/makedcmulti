@@ -1,0 +1,5 @@
+{
+  "name": "DC Report Manager",
+  "description": "A comprehensive patient management and daily collection report system featuring interactive data tables, financial analytics, and Excel export capabilities.",
+  "requestFramePermissions": []
+}
